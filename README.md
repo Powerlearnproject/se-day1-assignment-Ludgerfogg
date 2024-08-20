@@ -19,8 +19,8 @@ Software Development Life Cycle
 2. Design: this is process of designing the user interface 
 3. testing: testing is done to acertain that the product meets high-quality standard, identifies and fix defects and finally meets functional rquirements.
 4. implementation: is the actually development of product by writing codes
-5. Deployement: this is the when the finished product is sent out
-6. Maintenace: deals with updates and other services
+5. Deployement: this is the when the finished product is sent out.
+6. Maintenace: deals with updates and other services.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodologies is a sequential appraoch to development with distinct phases  
